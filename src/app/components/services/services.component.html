@@ -4,7 +4,10 @@
     We have cultivated the culture, commercial pragmatism and corporate skills required to deliver world-class services that are tailored to the preferences of national as well as world-class clients.
     Success League delivers services, principally in the areas of Legal, Start-Ups Mentoring & Funding, Intellectual Property and Brand Promotion. In addition, we also cater to our clients’ requirements in Real Estate, International Business, Banking, Insurance, Litigation, Arbitration & Dispute Resolution, Representations and Settlements alongwith Employment & Service matters.  The firm's edifying capabilities and resources, combined with a diligent delivery, results in a rich client experience.
 </p>
-<h2 class="text-xl font-bold">{{serviceToShow?.serviceName}}</h2>
+<div>
+    <h2 class="text-xl font-bold">{{serviceToShow?.serviceName}}</h2>
+    <img src="{{serviceToShow?.imagePath}}" width="400" class="float-right m-2" alt="" srcset="">
+</div>
 <p *ngFor="let p1 of serviceToShow?.paragraphs">{{p1}}</p>
 <ul class="list-disc">
     <li *ngFor="let l1 of serviceToShow?.list">{{l1}}</li>

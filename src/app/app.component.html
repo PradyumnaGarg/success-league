@@ -3,7 +3,7 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center">
       <a routerLink="/">
-        <img width="60" height="60" src="assets/img/success-league-logo.png" class="img-fluid" alt="logo">
+        <img width="70" height="70" src="assets/img/success-league-logo.png" class="img-fluid" alt="logo">
       </a>
       <nav id="navbar" class="navbar order-last order-lg-0 ml-auto">
         <ul>
@@ -75,7 +75,7 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Success League</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>Success League Business Solution</span></strong>. All Rights Reserved
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
@@ -89,3 +89,21 @@
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <dialog class="fixed inset-0 z-50 shadow-xl w-1/2"  [open]="openModal">
+    <h2 class="text-xl font-bold">Disclaimer</h2>
+    <p>
+      The Bar Council of India does not permit advertisement or solicitation by advocates in any form or manner. By accessing this website, www.successleague.com, you acknowledge and confirm that you are seeking information relating to Success League Business
+Solutions of your own accord and that there has been no form of solicitation, advertisement or inducement by Success League Business
+Solutions or its members. The content of this website is for informational purposes only and should not be interpreted as soliciting or advertisement. No material/information provided on this website should be construed as legal advice. Success League Business
+Solutions shall not be liable for consequences of any action taken by relying on the material/information provided on this website. The contents of this website are the intellectual property of Success League Business
+Solutions.
+    </p>
+    <form [formGroup]="form" class="flex flex-col space-y-2">
+      <label for="" class="flex space-x-2">
+        <input type="checkbox" formControlName="check" [checked]="false">
+        <span>I accept the above</span>
+      </label>
+      <button (click)="closeModal()" class="bg-blue-800 text-white px-4 py-2 w-fit">Okay</button>
+    </form>
+  </dialog>

@@ -69,7 +69,7 @@ body {
   # Header
   --------------------------------------------------------------*/
   #header {
-    height: 70px;
+    height: 80px;
     transition: all 0.5s;
     z-index: 997;
     transition: all 0.5s;
@@ -355,7 +355,7 @@ body {
   #hero {
     width: 100%;
     height: 60vh;
-    background: url("../img/hero-bg.jpg") center center;
+    background: url("../img/hero.jpg") center bottom;
     background-size: cover;
     position: relative;
     margin-top: 70px;

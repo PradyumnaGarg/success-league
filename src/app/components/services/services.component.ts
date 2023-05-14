@@ -13,6 +13,7 @@ export class ServicesComponent implements OnInit {
     {
       serviceId: '1',
       serviceName: 'LEGAL, REGULATORY & COMPLIANCE',
+      imagePath: 'assets/img/Attorney.jpeg',
       paragraphs: ['We advise and assist clients on the establishment of operations in the India across all corporate structures with special focus on handholding services to Start-ups. This involves obtaining all registrations, licenses and approvals and meeting all legal requirements for commencing their operations.', 'Our due diligence process provides a detailed review of a target business from a financial and commercial perspective, adding value by focusing on the key issues likely to affect the decision to proceed with the acquisition and those factors which affect the price.'],
       list: [
         'Advising on the legal framework for the proposed business activity, as well as on the preferred vehicle or structure for the investment, including the establishment of branches, subsidiaries, representative offices and regional headquarters.', 'Advising on and obtaining special registrations for Start-ups to avail of tax and other incentives.', 'Preparing, negotiating and reviewing contracts for various corporate and commercial transactions that may arise from the client’s business.', 'Corporate Law Assurance', 'Corporate Compliance Management', 'Due Diligence- Legal, Financial and Commercial for Mergers & Acquisitions and Corporate Restructuring', 'Forex Law Assurance', 'Joint Venture, Share Purchase and Acquisition', 'Agreements',
@@ -125,13 +126,14 @@ export class ServicesComponent implements OnInit {
     {
       serviceId: '2',
       serviceName: 'START-UPS MENTORING AND FUNDING SERVICES',
+      imagePath: 'assets/img/Startup mentoring.jpeg',
       paragraphs: [
         'With the spread of COVID-19, the world is facing an unprecedented economic and health crisis. Many global leaders and economists view COVID-19 as “the gravest challenge since World War II.” On March 16, 2020 the G7 leaders issued a joint statement “acknowledging that the COVID-19 pandemic is a human tragedy and a global health crisis, which also poses major risks for the world economy.”',
         'As the world has become tightly connected into a global society, the problems of one country can also greatly impact other countries through various global chains. Under these circumstances, it will be helpful to share information on the rigorous epidemiological investigation using ICT, and pan-governmental cooperation at national, provincial and city levels.',
         'As the pandemic is unfolding in ways completely different from past economic crises, we need unprecedented economic countermeasures. Under such circumstances, corporates should divert production to production plants with less disruption to the supply chain & workforce, update budget allocations to suit need transformation and recovery rate, offer loans & cash payments to suppliers to prevent production halt,  redeploy sales effort to online for B2C & B2B and offer paid leaves to employees and other support staff.',
         'They should reconsider policy measures w-r-t reimagining business possibilities, identifying behaviour shifts and considering inorganic moves. Moreover, they should re-strategize FY 2023-24 by building agile scenario-based plans, re-configuring workforce to deal with uncertainty, rationalize costs for resilience & explore M&A and other Corporate Restructuring moves.',
         'The Govt. of India has steadfastly risen to the occasion and introduced programmes like ‘Vocal for Local’ and ‘Aatmnirbhar Bharat’ to give tremendous boost to indigenous production and encouraging new entrepreneurs, technocrats and edupreneurs to start new ventures for generating employment opportunities as well as aid the Indian economy to reach a new high and resuscitate the India growth story.',
-        'In 2021, many Indian Start-ups proudly entered the prestigious ‘Unicorn Club’, namely Flipkart Moglix, BharatPe, CoinDCX, upGrad, Groww, BlackBuck, Droom, OfBusiness, Meesho and Zetwork & successfully demonstrated that Indian business and digital fraternity can stand upto any challenge posed by unprecedented circumstances impacting global business environment.',
+        'In 2021, many Indian Start-ups proudly entered the prestigious ‘Unicorn Club’, & successfully demonstrated that Indian business and digital fraternity can stand upto any challenge posed by unprecedented circumstances impacting global business environment.',
         'At Success League, we won’t share just our experience with you. Over the course of years, we have developed strong networks in different fields of business across varied sectors. Through Startup mentoring, we can help you envisage your short as well as long-term goals & objectives and act as a conduit between you and different agencies. We can open up networking opportunities for you in competitor analysis, demand estimation and market research amongst host of others.'
       ],
       subService: [
@@ -224,6 +226,7 @@ export class ServicesComponent implements OnInit {
     {
       serviceId: '3',
       serviceName: 'START-UP FINANCING/ FUND RAISING/ INVESTMENT FACILITATION',
+      imagePath: 'assets/img/Startup funding.jpeg',
       paragraphs: [],
       subService: [
         {
@@ -584,6 +587,7 @@ export class ServicesComponent implements OnInit {
     {
       serviceId: '5',
       serviceName: 'INTELLECTUAL PROPERTY',
+      imagePath: 'assets/img/Intellectual Property.jpeg',
       paragraphs: [
         'Our innovative approaches encompass all aspects of intellectual property protection. Combining insightful advice and innovative tools, we help clients in obtaining, defending, enforcing, and exploiting intellectual property rights, including Copyrights, Trademarks and Patents. We offer seamless service on a range of matters, from counselling on registrability, conducting trademark searches, registration and maintenance, to commercialization, protection and enforcement.',
         'We also understand that effective protection of path-breaking technologies and successful litigation of patent disputes are critical aspects of today’s increasingly competitive business environment. The professionals and the firm have represented several international clients to provide Trademark Prosecution services in India.',
@@ -635,6 +639,7 @@ export class ServicesComponent implements OnInit {
     {
       serviceId: '4',
       serviceName: 'BRAND PROMOTION',
+      imagePath: 'assets/img/Brand Promotion.jpeg',
       paragraphs: [
         "Success League provides integrated branding services from conducting initial brand research to uncover key insights into your brand, to developing a brand strategy which clearly defines your brand's unique characteristics, values and attributes, to bringing your brand to life through logo, visual identity and collateral and launching your new or updated brand to employees and the market.",
         "We are ably supported in all our professional endeavours by our collaborations and trusted long standing productive relationships with major News Channels alongwith leading Trade & Business Newspapers & Magazines and premier Public Relations & Corporate Communication agencies.",
