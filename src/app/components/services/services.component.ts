@@ -432,8 +432,7 @@ export class ServicesComponent implements OnInit {
           paragraphs: [
             'To provide equity funding support for development and growth of innovation driven enterprises, the government has set aside a corpus fund of INR 10,000 Crores managed by Small Industries Development Bank of India (SIDBI). The fund is in the nature of Fund of Funds, which means that the government participates in the capital of SEBI registered Venture Capital Funds, who invest twice the amount in start-ups. The flow of funds is Government > SIDBI > Venture Capitals > Startups.',
             'FFS has not only made capital available for start-ups at early stage, seed stage and growth stage but also played a catalytic role in terms of facilitating raising of domestic capital, reducing dependence on foreign capital and encouraging home grown and new venture capital funds.',
-            'FFS does not invest directly in start-ups, but participate in the capital of Alternative Investment Funds registered with SEBI. It contributes to the corpus of AIFs for investing in equity and equity linked instruments of various start-ups at early stage, seed stage and growth stage.',
-            'All AIFs registered under SEBI AIF Regulations, 2012 (Category I and II) are eligible under FFS. Collectively, the AIFs supported by FFS have a target corpus of over Rs. 48,000 crores. Among the prominent AIFs of leading start-up investment firms supported under FFS are Chiratae Ventures, India Quotient, Blume Ventures, IvyCap, Waterbridge, Omnivore, Aavishkaar, JM Financial, Fireside Ventures, and more.'
+            'FFS does not invest directly in start-ups, but participate in the capital of Alternative Investment Funds registered with SEBI. It contributes to the corpus of AIFs for investing in equity and equity linked instruments of various start-ups at early stage, seed stage and growth stage.'
           ],
           list: []
         },
