@@ -11,6 +11,7 @@ export class TeamService {
     {
       id: 'dinesh-sahrawat',
       name: 'Dinesh Sahrawat',
+      image: null,
       degrees: '(L.L.M, M.A., PGDIPR, PGDFT, PGDCA)',
       descriptionMini: `Mr. Dinesh is a Senior Attorney practicing with the Hon'ble High Court of Delhi
       with hands on experience in handling matters relating to Banking, Leasing, Finance,
@@ -31,6 +32,7 @@ export class TeamService {
     {
       id: 'vivek-garg',
       name: 'Vivek Garg',
+      image: null,
       degrees: '(M.B.A., L.L.B., B.F.T.)',
       descriptionMini: `Mr. Vivek has got 18 years of experience with an exceptional and impeccable professional qualification record. He is an M.B.A. in International Marketing &
       Business Development, Masters in Economics and Bachelor of Foreign Trade with
@@ -51,6 +53,7 @@ export class TeamService {
     {
       id: 'rajat-saxena',
       name: 'Rajat Saxena',
+      image: 'assets/img/Rajat.jpg',
       degrees: '(MBA Finance, B.Com., ADF, PGCSF)',
       descriptionMini: `Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 13 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes.`,
       link: '/our-team/rajat-saxena',
