@@ -32,7 +32,7 @@ export class TeamService {
     {
       id: 'vivek-garg',
       name: 'Vivek Garg',
-      image: null,
+      image: 'assets/img/Vivek.JPG',
       degrees: '(M.B.A., L.L.B., B.F.T.)',
       descriptionMini: `Mr. Vivek has got 18 years of experience with an exceptional and impeccable professional qualification record. He is an M.B.A. in International Marketing &
       Business Development, Masters in Economics and Bachelor of Foreign Trade with
