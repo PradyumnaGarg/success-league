@@ -11,7 +11,7 @@ export class TeamService {
     {
       id: 'dinesh-sahrawat',
       name: 'Dinesh Sahrawat',
-      image: null,
+      image: 'assets/img/Dinesh.jpg',
       degrees: '(L.L.M, M.A., PGDIPR, PGDFT, PGDCA)',
       descriptionMini: `Mr. Dinesh is a Senior Attorney practicing with the Hon'ble High Court of Delhi
       with hands on experience in handling matters relating to Banking, Leasing, Finance,
