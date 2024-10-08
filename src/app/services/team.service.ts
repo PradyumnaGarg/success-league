@@ -17,8 +17,9 @@ export class TeamService {
       with hands on experience in handling matters relating to Banking, Leasing, Finance,
       Insurance, Contract Management & Negotiations, Intellectual Property, Real Estate,
       Employment & Service Laws, Litigation & Arbitration alongwith Export & Import
-      ranging around 19 years`,
+      ranging around 24 years`,
       link: '/our-team/dinesh-sahrawat',
+      linkedIn: 'https://www.linkedin.com/in/dinesh-sahrawat-6891321a/',
       descriptionArray: [
         'Mr. Dinesh is a Senior Attorney practicing with the Hon’ble High Court of Delhi with hands on experience in handling matters relating to Banking, Leasing, Finance, Insurance, Contract Management & Negotiations, Intellectual Property, Real Estate, Employment & Service Laws, Litigation & Arbitration alongwith Export & Import ranging around 19 years. He is a Silver Medallist of the University Law College, University of Delhi. He has represented numerous companies as authorized representative in High Courts, District & Session Courts, Tribunals, State Commissions, Consumer Forum, Labour Tribunals and courts. ',
         'He is an effective communicator with excellent relationship building and interpersonal skills, strong analytical, problem solving and organizational abilities and a flexible and detail-oriented attitude. He has been instrumental in successfully handling out-of-court settlements by taking cost-effective measures, ensuring proper execution of company policies/professional ethics/ code of conduct pan India.',
@@ -34,12 +35,13 @@ export class TeamService {
       name: 'Vivek Garg',
       image: 'assets/img/Vivek.JPG',
       degrees: '(M.B.A., L.L.B., B.F.T.)',
-      descriptionMini: `Mr. Vivek has got 18 years of experience with an exceptional and impeccable professional qualification record. He is an M.B.A. in International Marketing &
+      descriptionMini: `Mr. Vivek has got 21 years of experience with an exceptional and impeccable professional qualification record. He is an M.B.A. in International Marketing &
       Business Development, Masters in Economics and Bachelor of Foreign Trade with
       specialization in Logistics Management, apart from being a Law Graduate.`,
       link: '/our-team/vivek-garg',
+      linkedIn: 'https://www.linkedin.com/in/adv-vivek-garg-8136381a',
       descriptionArray: [
-        'Mr. Vivek has got 18 years of experience with an exceptional and impeccable professional qualificational record. He is an M.B.A. in International Marketing & Business Development, Masters in Economics and Bachelor of Foreign Trade with specialization in Logistics Management, apart from being a Law Graduate.',
+        'Mr. Vivek has got 21 years of experience with an exceptional and impeccable professional qualificational record. He is an M.B.A. in International Marketing & Business Development, Masters in Economics and Bachelor of Foreign Trade with specialization in Logistics Management, apart from being a Law Graduate.',
         'He has incredible experience acquired over the years in diverse areas encompassing Key Account Management, Product Promotion & Market Development, Business Planning/ Implementation. He has expertise in strategy development and implementation to attain predetermined targets with optimal realization, brand promotion, consolidation of market presence, market share, positioning and penetration.',
         'He has extensive knowledge in legal prudence in Legal Strategy Planning, Legal Documentation, Drafting and legal vetting of various contracts and commercial transactions to ensure compliance with legal regime.' ,
         'He has provided consultancy services to End-User pertaining to the utilization of relevant functions on SAP features, analyzed companies’ marketing/ sales programs and devised ways to increase their cost-effectiveness. He has also conducted market research, identified opportunities for increasing sales and worked with sales teams to increase pricing models customized for the users.',
@@ -54,13 +56,14 @@ export class TeamService {
       id: 'rajat-saxena',
       name: 'Rajat Saxena',
       image: 'assets/img/Rajat.jpg',
-      degrees: '(MBA Finance, B.Com., ADF, PGCSF)',
-      descriptionMini: `Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 13 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes.`,
+      degrees: '(MBA Finance, B.Com., ADF, PGPSF)',
+      descriptionMini: `Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 17 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes.`,
       link: '/our-team/rajat-saxena',
+      linkedIn: 'https://www.linkedin.com/in/rajat-saxenaa/',
       descriptionArray: [
-        'Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 13 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes. He has a commendable and established record in driving SBU “value” by employing cost-focussed and client-oriented approaches.  He is a B-School First Rank Holder and a Topper/ Merit List Appearer during his Scholastic Education.',
+        'Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 17 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes. He has a commendable and established record in driving SBU “value” by employing cost-focussed and client-oriented approaches.  He is a B-School First Rank Holder and a Topper/ Merit List Appearer during his Scholastic Education.',
         'Mr. Rajat has got considerable experience in ‘Knowledge Sharing’ with different Ministries of the Central Govt. as well as State Govts. and has coordinated with Prime Minister’s Office and NITI Aayog on projects of national importance.  By dint of his hardwork and professionalism, he earned an opportunity to meet the Hon’ble Prime Minister of India in person. He has dealt extensively with High-Ranking Officials of Foreign Embassies and High Commissions, such as Dy. High Commissioner, First Secretary alongwith their Economic Consulates and Investment/ Trade Promotion Organisations for FDI Attraction and Trade Collaboration.',
-        'He has a proven proficiency track in successfully delivering decision-oriented Management roles with experience across Investment Banking, Infrastructure Financing, Mergers & Acquisitions, Energy Financing, Investment Promotion, Due Diligence and Global Business Negotiations.',
+        'He has a proven proficiency track in successfully delivering decision-oriented Management roles with experience across Investment Banking, Infrastructure Financing, Mergers & Acquisitions, Private Debt Placement, Wealth Management,Energy Financing, Investment Promotion, Due Diligence and Global Business Negotiations.',
         'He has been associated with the most ambitious and path-breaking post- independence Indian ultra-mega project of “Industrial Corridors” in key capacities such as Project Financing & Investment Promotion. He was also extensively involved in ‘Branding’ of the project with leading national & international media organisations.',
         'Moreover, he has successfully liaised with Foreign Investment Agencies for inward Capital attraction. He has successfully executed professional assignments with Blue-Chip Global & Indian Conglomerates and Govt. Agencies in India & abroad at the Highest Levels. He brings with himself multi-disciplinary and innovative ‘Corporate Value Enhancement’ aptitude in varied Financial & Management disciplines & facets.',
         'He has performed work-streams related to Corporate Restructuring, Financial Analysis, Due Diligence of Organizational Structure, Market & Demand potential, Competition Scrutiny, and International Prospects etc. He has also prepared Feasibility Reports for Small Scale Industrial units, assisting them for starting Greenfield Projects and obtaining working capital loans. He has devised numerous cost-reduction strategies for his clients.',

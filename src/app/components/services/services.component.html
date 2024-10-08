@@ -6,7 +6,7 @@
 </p>
 <div>
     <h2 class="text-xl font-bold text-main">{{serviceToShow?.serviceName}}</h2>
-    <img src="{{serviceToShow?.imagePath}}" width="400" class="float-right m-2" alt="" srcset="">
+    <img *ngIf="serviceToShow?.imagePath" src="{{serviceToShow?.imagePath}}" width="400" class="float-right m-2" alt="" srcset="">
 </div>
 <p *ngFor="let p1 of serviceToShow?.paragraphs">{{p1}}</p>
 <ul class="list-disc">
@@ -14,6 +14,7 @@
 </ul>
 <ng-container *ngFor="let item of serviceToShow?.subService">
     <h3 class="text-lg font-bold text-main">{{item.title}}</h3>
+    <img *ngIf="item?.imagePath" src="{{item?.imagePath}}" width="400" class="float-right m-2" alt="" srcset="">
     <p *ngFor="let p of item.paragraphs">{{p}}</p>
     <ul class="list-disc">
         <li *ngFor="let l of item.list">{{l}}</li>
