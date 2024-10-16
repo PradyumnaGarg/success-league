@@ -221,16 +221,16 @@ export class ServicesComponent implements OnInit {
         "Globalisation has transformed the way businesses operate. It has sped up global integration of business collaborations, joint ventures and supply sourcing too by removing trade barriers. There is also a change in the preferences of customers due to the possibility of getting any goods or services from foreign countries.",
         "As companies grow in their domestic segments, their commercial interests cannot be confined to their home markets alone. For most business enterprises in their growth stage, international expansion is crucial to the development of new markets, expansion of their consumer base alongwith opportunities to attract big partners and investors. Success League Business Solutions (SLBS) offers  a full kaleidoscope of services for comprehensive support of business abroad."
       ],
-      lists: [
-        ' Success League collaborates with Investment Facilitation Agencies and Business Chambers & prepares for matchmaking of foreign companies with their Indian counterparts for investment, technology transfer and trade.',
-        ' We regularly coordinate with overseas investment promotion agencies operating in India about business prospects for Indian industrialists & businesses in overseas markets.',
-        ' By means of diligent communication, we strive continuously to increase awareness on the part of foreign investors, industrialists, service providers and technology suppliers about business conditions, policy & procedures about FDI in selected regions and priority sectors of India.',
-        ' We facilitate to provide expert advice and information regarding forms of cooperation, such as joint ventures, subcontracting, licensing and any other form of transfer of technology/ resources to India. ',
-        ' Success League also provides services like Customs Litigation, Customs Valuation & Costing, Export- Import Documentation alongwith facilitating International Trade Finance, ( Pre-Shipment as well as Post-Shipment), to its clients. ',
-        ' Specialization in International Chamber of Commerce (ICC) Rules on Documentary Credits (UCP 600) ',
-        ' All related litigation dealing with disputes under Letters of Credit and Demand Guarantee, Bank-to-Bank Reimbursement (URR-525), Rules relating to Collection (URC 522), International Standby Practices (ISP 98) and Trading terms and conditions (INCOTERMS).',
-        ' All services under Export-Import under Foreign Trade (Development & Regulation) Act of 1992 & The Marine Products Export Development Authority Act, 1972',
-      ]
+      list: [
+        "Success League collaborates with Investment Facilitation Agencies and Business Chambers & prepares for matchmaking of foreign companies with their Indian counterparts for investment, technology transfer and trade.",
+        "We regularly coordinate with overseas investment promotion agencies operating in India about business prospects for Indian industrialists & businesses in overseas markets.",
+        "By means of diligent communication, we strive continuously to increase awareness on the part of foreign investors, industrialists, service providers and technology suppliers about business conditions, policy & procedures about FDI in selected regions and priority sectors of India.",
+        "We facilitate to provide expert advice and information regarding forms of cooperation, such as joint ventures, subcontracting, licensing and any other form of transfer of technology/ resources to India.",
+        "Success League also provides services like Customs Litigation, Customs Valuation & Costing, Export- Import Documentation alongwith facilitating International Trade Finance, ( Pre-Shipment as well as Post-Shipment), to its clients.",
+        "Specialization in International Chamber of Commerce (ICC) Rules on Documentary Credits (UCP 600)",
+        "All related litigation dealing with disputes under Letters of Credit and Demand Guarantee, Bank-to-Bank Reimbursement (URR-525), Rules relating to Collection (URC 522), International Standby Practices (ISP 98) and Trading terms and conditions (INCOTERMS).",
+        "All services under Export-Import under Foreign Trade (Development & Regulation) Act of 1992 & The Marine Products Export Development Authority Act, 1972",
+      ],
     },
     {
       serviceId: '5',
@@ -350,14 +350,14 @@ export class ServicesComponent implements OnInit {
     {
       serviceId: '6',
       serviceName: 'TECHNICAL SERVICES CONSULTANCY FOR START-UPS-THIRD-PARTY OUTSOURCED SERVICES',
-      imagePath: 'assets/img/new/Outsourced-Start-Up Technical.jpeg',
+      imagePath: 'assets/img/new/Outsourced-Start-Up Technical.jpg',
       paragraphs: [
         "As a result of rise of 'Disruptive Thinking', the rate of development of innovation in technology development has seen an unprecedented escalation. The industry has been revolutionized in many aspects to solve problems or offer a better alternative to the currently existing solutions.",
         "A start-up's innovation trigger is the fulfilment of an unmet need or an unaddressed problem in the market by creating a new product or service. This role underlines a start-ups primary function in the market, which aims to meet the needs of diverse consumers in different ways.",
         "More often than not, a start up's progress is hindered by the lack/ absence of experienced and distinguished technical services consultancy primarily in the development of Prototype and MVP, thereby jeopardizing the entire commercial production process.",
         "Success League Business Solutions offers technical services consultancy by means of its professional collaborators on an outsourced basis in all the following key areas: -",
       ],
-      lists:[
+      list:[
         ' Business Idea Generation ',
         ' Concept Refinement ',
         ' Identifying Scope for Further Innovation ',
@@ -369,11 +369,12 @@ export class ServicesComponent implements OnInit {
         ' Technology Selection, Evaluation & Transfer',
         ' Environmental Impact Assessment',
         ' Social Impact Assessment',
+        ' IT & Software Development',
       ],
       subService: [
         {
           title: '',
-          paragraphs: [" IT & Software Development Besides, we also provide the following ‘Commercial Promotion’ services to our entrepreneurial clients: -"],
+          paragraphs: ["Besides, we also provide the following ‘Commercial Promotion’ services to our entrepreneurial clients: -"],
           list: [
             ' Business Strategy',
             ' Market Research',
@@ -466,6 +467,20 @@ export class ServicesComponent implements OnInit {
           title: '1. Pre- Seed Funding/ Ideation:',
           paragraphs: [
             "This is the preliminary stage where the entrepreneur is trying to bring his idea to life. It is principally an ‘applied research’ phase where the promoter tries to transform his idea from a pre-commercialisation project case expected to develop into a prototype which may not necessarily result into a business launch. Here, the primary risk is ‘Marketability’, i.e. whether the idea is viable and whether it or another similar idea has been commercialised before or not?",
+          ],
+          list: []
+        },
+        {
+          title: 'Funding Sources',
+          paragraphs: [
+            "Funds raised at this stage are used essentially for meeting marketing and product development related expenditures. The risk perception of investment at this stage is extremely high. Funding sources at this stage consist of Angel Investors, Crowd funding, business incubators and accelerators, Government Loan Schemes, Collateral-free Debt by Government Agencies.",
+          ],
+          list: []
+        },
+        {
+          title: '2. Seed Funding/ Validation',
+          paragraphs: [
+            "This stage involves the transformation of business idea research project into a prototype that could be used for product testing and market trials on a selected and limited potential customer base that could further enable commercialisation on a wider scale. At this stage, the entrepreneur has to hire a competent team, conduct thorough market research alongwith field trials and bring mentors onboard. It must also be ensured that technology being used matches the market opportunities.",
           ],
           list: []
         },
@@ -708,8 +723,16 @@ export class ServicesComponent implements OnInit {
         {
           title: '8. Angel Investors',
           paragraphs: [
-            "After self-financing, perhaps the second most popular source for startups before seed-funding stage is composed of family, friends and relatives. This is because many times, the promoters’ own resource may not suffice for the capital that he needs. The primary benefit of this source of investment is that there is an inherent level of trust between the entrepreneurs and the investors.", 
-            "People with whom the promoter has close relationships know his reliability and level of competence. The major drawback is that if the family members or friends think that lending money gives them right to ‘meddle’ and if the business fails, the issue of paying the money back can be a problem, putting the entire personal relationship at peril.",
+            "Angel investors are High Net Worth individuals who invest in startup businesses, normally in the early stages. They invest their money into high-potential startups in return for equity. Angel investors fill the gap between friends and family, and more formal venture capital funds.", 
+            "As per SEBI (Alternative Investment Funds Regulations 2012), an Angel Investor means any person who proposes to invest in an angel fund and satisfies one of the following conditions: ",
+            "(a) An individual investor who has",
+            "(1) Tangible assets of at least `2 crores excluding value of his principal residence; and",
+            "(2)(i) Early stage investment experience (i.e. prior experience in investing in start-up/ emerging/early-stage ventures); ",
+            "(ii) Serial entrepreneur (i.e. a person who has promoted/ co-promoted more than one start-up venture);",
+            "(iii) Is a senior management professional with at least 10 years of experience;",
+            "b) A body corporate with a net worth of atleast 10 crores;",
+            "(c) An AIF registered under SEBI regulations as VCF.",
+
           ],
           list: []
         },
@@ -816,7 +839,8 @@ export class ServicesComponent implements OnInit {
       paragraphs: [
         "The Indian Media & Entertainment industry has witnessed an exponential surge over the past three decades with multiple national as well as foreign players entering the scene. As far as electronic media is concerned, it has garnered the lion’s share of growth with channels in spheres as diverse as entertainment, news, movies, sports, spirituality spanning over the entire landscape of the subcontinent in all languages.",
         "This has provided a major boost to allied sectors like- Motion Pictures, Talent Hunts, Reality Shows, Celebrity Management, Brand Endorsements, Entertainment & OTT Apps and Digital Music etc.",
-        "The publishing sector, too, is not far behind with media houses floating newspapers in novel categories as- Business, Glamour & Entertainment, and Lifestyle & Page 3 Social Circle Gossips besides a number of news portals coming up alongwith a host of edutainment Social Media Platforms. The Public Relations, Outdoor Advertising, Integrated Marketing Communications and Digital Media agencies are also on the rise due to the increase in people’s disposable income and entry of overseas players into Indian consumer goods market segment. ",
+        "The publishing sector, too, is not far behind with media houses floating newspapers in novel categories as- Business, Glamour & Entertainment, and Lifestyle & Page 3 Social Circle Gossips besides a number of news portals coming up alongwith a host of edutainment Social Media Platforms.",
+        "The Public Relations, Outdoor Advertising, Integrated Marketing Communications and Digital Media agencies are also on the rise due to the increase in people’s disposable income and entry of overseas players into Indian consumer goods market segment.",
         "The Media & Entertainment industry relies primarily on talented performing artists, technological finesse, financial muscle and celebrity charisma, the possibilities of market dominance and manipulation through unfair means in this lucrative sector cannot be ruled out altogether.",
         
       ],
@@ -959,7 +983,8 @@ export class ServicesComponent implements OnInit {
             ' The Prize Chits and Money Circulation Schemes (Banning) Act, 1978',
             ' Drugs and Cosmetic Act, 1940',
             ' The Food Safety and Standards Act, 2006',
-            ' Securities and Exchange Board of India (Prohibition of Fraudulent and Unfair Trade Practices Relating to Securities Market) Regulations, 2003  Competition Act, 2002',
+            ' Securities and Exchange Board of India (Prohibition of Fraudulent and Unfair Trade Practices Relating to Securities Market) Regulations, 2003',
+            ' Competition Act, 2002',
             ' Prevention of Misuse of Social Media under Information Technology Act, 2000 and Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2022.',
 
           ]
@@ -1088,7 +1113,7 @@ export class ServicesComponent implements OnInit {
     {
       serviceId: '15',
       serviceName: 'SECURITISATION SERVICES',
-      imagePath: 'assets/img/new/Securitization.jpeg',
+      imagePath: 'assets/img/new/Securitization.jpg',
       paragraphs: [
         'Securitisation is a financial process which involves pooling of multiple illiquid assets and selling them to a Special Purpose Vehicle (generally an Asset Reconstruction Company), which converts them into tradable collateral financial securities.',
         'The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI) aims to empower banks as secured creditors to take possession and sell the securities without the intervention of court/tribunal, thus eliminating the litigation costs completely while reducing the amounts of stressed loans to a large extent.',
@@ -1383,6 +1408,7 @@ export class ServicesComponent implements OnInit {
             "The guiding principles of various international treaties and conventions to which India is a contracting party have helped India develop a robust legal regime for protecting the roprietary and related rights in various art forms.",
             "While the value of art comes from the intangible creation of the mind, the fixation of art to a tangible medium brings it under regulation by statutes such as the Transfer of Property Act, 1882 (TPA) and the Sale of Goods Act, 1930 (SGA). TPA is the generallegislation governing rights and transfers in tangible private immovable property. The Act recognises three basic rights: the rights to (1) use, (2) possess and (3) alienate,within the bundle of positive rights statutorily guaranteed to the proprietor of an immovable property.",
             "Barring a few exceptional circumstances, artwork such as statues and murals qualify as immovable property under law, can be sold, leased, licensed, mortgaged and gifted only through a registered document, by paying the applicable stamp duty. Sale of movable art forms, on the other hand, is governed by the SGA, which allows transfer or conveyance of an artwork by mere delivery of possession of the work, supported by a proof of intention to transfer.",
+            "The aged arts and articles of historical and national importance are protected through the Antiquities and Art Treasures Act, 1972. The act makes it mandatory to seek government authorisation while transferring antiquities and art treasures as defined under the Act.",
             "'Antiquity' includes art, craft and literature that is aged over 100 years and manuscripts from over 75 years of existence. Any such article can be sold only after obtaining the statutory non-transferrable licence issued by the Director General of the Archaeological Survey of India. Art treasures, on the other hand, are non-antique articles that have national importance. Such articles, including art and those of aesthetic value, are from time to time identified by the Indian government and the list is published in the Gazette of India. The special treatment of antiquities and art treasures can be gauged from the interplay of other laws such as the Customs Tariff laws, which have classified, for the purpose of imposition of import duty, antiques and collectibles such as pieces of historical interest in addition to works of art.",
             "While the commonly known visual art forms and work of craftsmanship such as painting, engraving, sculpture, photography and works of architecture are under the category of 'artistic work', the lesser-known literary art, digital art and the derivative works like music and films are treated as separate and independent form of copyrightable works. The right to claim resale royalty is limited to only painting,sculpture and drawing of values exceeding 10,000 rupees and does not pertain to art of any value and even other art forms such as photographs.",
             "For any work, including artistic works, to be protected under the Copyright Act, it must be an original work expressed in some tangible form. A work is considered original and thus is protected under the Copyright Act if it has resulted from a modicum of creativity, skill and judgment of the author. The exercise of skill and judgment should not be 'trivial'.",
