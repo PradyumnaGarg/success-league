@@ -1,110 +1,164 @@
+<!-- ======= Header  Start ======= -->
+<header id="header" class="fixed-top d-flex align-items-center">
+  <div class="container d-flex align-items-center">
+    <a routerLink="/">
+      <img
+        width="70"
+        height="70"
+        src="assets/img/success-league-logo.png"
+        class="img-fluid"
+        alt="logo"
+      />
+    </a>
+    <nav id="navbar" class="navbar order-last order-lg-0 ml-auto">
+      <ul>
+        <li>
+          <a
+            class="nav-link scrollto"
+            routerLink="/"
+            routerLinkActive="active"
+            href="#hero"
+            >Home</a
+          >
+        </li>
+        <li>
+          <a
+            class="nav-link scrollto"
+            routerLinkActive="active"
+            routerLink="services"
+            href="#services"
+            >Services</a
+          >
+        </li>
+        <li><a class="nav-link scrollto" href="#team">Our Team</a></li>
+        <li><a class="nav-link scrollto" href="#about">About Us</a></li>
+        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+      </ul>
+      <i class="bi bi-list mobile-nav-toggle"></i>
+    </nav>
+    <!-- .navbar -->
+  </div>
+</header>
+<!-- End Header -->
+<router-outlet></router-outlet>
 
-  <!-- ======= Header  Start ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
-    <div class="container d-flex align-items-center">
-      <a routerLink="/">
-        <img width="70" height="70" src="assets/img/success-league-logo.png" class="img-fluid" alt="logo">
-      </a>
-      <nav id="navbar" class="navbar order-last order-lg-0 ml-auto">
-        <ul>
-          <li><a class="nav-link scrollto " routerLink="/" routerLinkActive="active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" routerLinkActive="active" routerLink="services" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto" href="#team">Our Team</a></li>
-          <li><a class="nav-link scrollto " href="#about">About Us</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-    </div>
-  </header><!-- End Header -->
-  <router-outlet></router-outlet>
+<!-- ======= Footer ======= -->
+<footer id="footer">
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-md-6 footer-contact">
+          <h3>Success League</h3>
+          <p>
+            C- 11 A Dwarka Crossing, <br />
+            Near Dwarka Mod Metro Station <br />
+            New Delhi- 110059<br />
+            <strong>Phone:</strong>+91 98680-41048 / +91 98109-61560 / +91
+            81097-69946<br />
+            <strong>Email:</strong> asksuccessleague@gmail.com<br />
+          </p>
+        </div>
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
+        <div class="col-lg-2 col-md-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+            <li>
+              <i class="bx bx-chevron-right"></i> <a href="#about">About us</a>
+            </li>
+            <li>
+              <i class="bx bx-chevron-right"></i>
+              <a href="#services">Services</a>
+            </li>
+            <li>
+              <i class="bx bx-chevron-right"></i>
+              <a href="#">Terms of service</a>
+            </li>
+            <li>
+              <i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a>
+            </li>
+          </ul>
+        </div>
 
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Success League</h3>
-            <p>
-              C- 11 A Dwarka Crossing, <br>
-              Near Dwarka Mod Metro Station <br>
-              New Delhi- 110059<br>
-              <strong>Phone:</strong>+91 98680-41048 / +91 98109-61560 / +91 81097-69946<br>
-              <strong>Email:</strong> asksuccessleague@gmail.com<br>
-            </p>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-           <div class="col-lg-3 col-md-6 footer-links">
-            <!--<h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Legal, Regulatory & Compliance</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Start-Ups Mentoring and Funding Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Start-up Financing/Funds Acquisition Facilitation</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Intellectual Property</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Brand Promotion</a></li>
-            </ul>-->
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <!-- <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form> -->
-          </div>
-
+        <div class="col-lg-5 col-md-12">
+          <iframe
+            class="w-[100%] lg:w-[600px]"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3502.3492243338374!2d77.03075167533505!3d28.619293775672052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1729622617143!5m2!1sen!2sin"
+            height="300"
+            style="border: 0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="container d-md-flex py-4">
-
-      <div class="me-md-auto text-center text-md-start">
-        <div class="copyright">
-          &copy; Copyright <strong><span>Success League Business Solutions</span></strong>. All Rights Reserved
-        </div>
-      </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="https://twitter.com/SuccessLeagueIN" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="https://www.linkedin.com/company/success-league-business-solutions" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+  <div class="container d-md-flex py-4">
+    <div class="me-md-auto text-center text-md-start">
+      <div class="copyright">
+        &copy; Copyright
+        <strong><span>Success League Business Solutions</span></strong
+        >. All Rights Reserved
       </div>
     </div>
-  </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-  <dialog class="fixed inset-0 z-50 shadow-xl w-[90%] md:w-1/2"  [open]="openModal">
-    <h2 class="text-xl font-bold">Disclaimer</h2>
-    <div class="h-[300px] md:h-fit overflow-y-auto">
-      <p class="">
-        The Bar Council of India does not permit advertisement or solicitation by advocates in any form or manner. By accessing this website, https://www.successleague.in, you acknowledge and confirm that you are seeking information relating to Success League Business
-  Solutions of your own accord and that there has been no form of solicitation, advertisement or inducement by Success League Business
-  Solutions or its members. </p>
-  <p> The content of this website is for informational purposes only and should not be interpreted as soliciting or advertisement. No material/information provided on this website should be construed as legal advice. Success League Business
-  Solutions shall not be liable for consequences of any action taken by relying on the material/information provided on this website. The contents of this website are the intellectual property of Success League Business
-  Solutions.
-      </p>
-      <p>All Legal Disputes will be subject to the Jurisdiction of Delhi Courts Only</p>
+    <div class="social-links text-center text-md-right pt-3 pt-md-0">
+      <a href="https://twitter.com/SuccessLeagueIN" class="twitter"
+        ><i class="bx bxl-twitter"></i
+      ></a>
+      <a
+        href="https://www.linkedin.com/company/success-league-business-solutions"
+        class="linkedin"
+        ><i class="bx bxl-linkedin"></i
+      ></a>
     </div>
-    <form [formGroup]="form" class="flex flex-col space-y-2">
-      <label for="" class="flex space-x-2">
-        <input type="checkbox" formControlName="check" [checked]="false">
-        <span>I accept the above</span>
-      </label>
-      <button (click)="closeModal()" class="bg-blue-800 text-white px-4 py-2 w-fit">Okay</button>
-    </form>
-  </dialog>
+  </div>
+</footer>
+<!-- End Footer -->
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"
+  ><i class="bi bi-arrow-up-short"></i
+></a>
+
+<dialog
+  class="fixed inset-0 z-50 shadow-xl w-[90%] md:w-1/2"
+  [open]="openModal"
+>
+  <h2 class="text-xl font-bold">Disclaimer</h2>
+  <div class="h-[300px] md:h-fit overflow-y-auto">
+    <p class="">
+      The Bar Council of India does not permit advertisement or solicitation by
+      advocates in any form or manner. By accessing this website,
+      https://www.successleague.in, you acknowledge and confirm that you are
+      seeking information relating to Success League Business Solutions of your
+      own accord and that there has been no form of solicitation, advertisement
+      or inducement by Success League Business Solutions or its members.
+    </p>
+    <p>
+      The content of this website is for informational purposes only and should
+      not be interpreted as soliciting or advertisement. No material/information
+      provided on this website should be construed as legal advice. Success
+      League Business Solutions shall not be liable for consequences of any
+      action taken by relying on the material/information provided on this
+      website. The contents of this website are the intellectual property of
+      Success League Business Solutions.
+    </p>
+    <p>
+      All Legal Disputes will be subject to the Jurisdiction of Delhi Courts
+      Only
+    </p>
+  </div>
+  <form [formGroup]="form" class="flex flex-col space-y-2">
+    <label for="" class="flex space-x-2">
+      <input type="checkbox" formControlName="check" [checked]="false" />
+      <span>I accept the above</span>
+    </label>
+    <button
+      (click)="closeModal()"
+      class="bg-blue-800 text-white px-4 py-2 w-fit"
+    >
+      Okay
+    </button>
+  </form>
+</dialog>
