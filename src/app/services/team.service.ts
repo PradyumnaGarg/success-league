@@ -13,6 +13,7 @@ export class TeamService {
       name: 'Dinesh Sahrawat',
       image: 'assets/img/Dinesh.jpg',
       degrees: '(L.L.M, M.A., PGDIPR, PGDFT, PGDCA)',
+      partner:'Founding Partner',
       descriptionMini: `Mr. Dinesh is a Senior Attorney practicing with the Hon'ble High Court of Delhi
       with hands on experience in handling matters relating to Banking, Leasing, Finance,
       Insurance, Contract Management & Negotiations, Intellectual Property, Real Estate,
@@ -35,6 +36,7 @@ export class TeamService {
       name: 'Vivek Garg',
       image: 'assets/img/Vivek.JPG',
       degrees: '(M.B.A., L.L.B., B.F.T.)',
+      partner:'Senior Managing Partner',
       descriptionMini: `Mr. Vivek has got 21 years of experience with an exceptional and impeccable professional qualification record. He is an M.B.A. in International Marketing &
       Business Development, Masters in Economics and Bachelor of Foreign Trade with
       specialization in Logistics Management, apart from being a Law Graduate.`,
@@ -57,12 +59,13 @@ export class TeamService {
       name: 'Rajat Saxena',
       image: 'assets/img/Rajat.jpg',
       degrees: '(MBA Finance, B.Com., ADF, PGPSF)',
-      descriptionMini: `Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 17 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes.`,
+      partner:'Managing Partner',
+      descriptionMini: `Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 19 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes.`,
       link: '/our-team/rajat-saxena',
       linkedIn: 'https://www.linkedin.com/in/rajat-saxenaa/',
       descriptionArray: [
-        'Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 17 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes. He has a commendable and established record in driving SBU “value” by employing cost-focussed and client-oriented approaches.  He is a B-School First Rank Holder and a Topper/ Merit List Appearer during his Scholastic Education.',
-        'Mr. Rajat has got considerable experience in ‘Knowledge Sharing’ with different Ministries of the Central Govt. as well as State Govts. and has coordinated with Prime Minister’s Office and NITI Aayog on projects of national importance.  By dint of his hardwork and professionalism, he earned an opportunity to meet the Hon’ble Prime Minister of India in person. He has dealt extensively with High-Ranking Officials of Foreign Embassies and High Commissions, such as Dy. High Commissioner, First Secretary alongwith their Economic Consulates and Investment/ Trade Promotion Organisations for FDI Attraction and Trade Collaboration.',
+        'Mr. Rajat did his Post Graduation in Business Management with majors in Finance. He has got a rich experience of 19 years with broad industry exposure in public as well as private sector enterprises in unique and challenging domains with highly productive outcomes. He has a commendable and established record in driving SBU “value” by employing cost-focussed and client-oriented approaches.  He is a B-School First Rank Holder and a Topper/ Merit List Appearer during his Scholastic Education.',
+        'Mr. Rajat has got considerable experience in "Knowledge Sharing" with different Ministries of the Central Govt. as well as State Govts. and has coordinated with Prime Minister’s Office and NITI Aayog on projects of national importance.  By dint of his hardwork and professionalism, he earned an opportunity to meet the Hon’ble Prime Minister of India in person. He has dealt extensively with High-Ranking Officials of Foreign Embassies and High Commissions, such as Dy. High Commissioner, First Secretary alongwith their Economic Consulates and Investment/ Trade Promotion Organisations for FDI Attraction and Trade Collaboration.',
         'He has a proven proficiency track in successfully delivering decision-oriented Management roles with experience across Investment Banking, Infrastructure Financing, Mergers & Acquisitions, Private Debt Placement, Wealth Management,Energy Financing, Investment Promotion, Due Diligence and Global Business Negotiations.',
         'He has been associated with the most ambitious and path-breaking post- independence Indian ultra-mega project of “Industrial Corridors” in key capacities such as Project Financing & Investment Promotion. He was also extensively involved in ‘Branding’ of the project with leading national & international media organisations.',
         'Moreover, he has successfully liaised with Foreign Investment Agencies for inward Capital attraction. He has successfully executed professional assignments with Blue-Chip Global & Indian Conglomerates and Govt. Agencies in India & abroad at the Highest Levels. He brings with himself multi-disciplinary and innovative ‘Corporate Value Enhancement’ aptitude in varied Financial & Management disciplines & facets.',
