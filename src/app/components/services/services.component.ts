@@ -1585,6 +1585,141 @@ export class ServicesComponent implements OnInit {
         },
       ],
     },
+
+    {
+      serviceId: '22',
+      serviceName: 'ALTERNATIVE & TECH INVESTMENTS',
+      imagePath: 'assets/img/new/Alternative Investment.jpeg',
+      paragraphs: [
+          "An Alternative Investment is commonly regarded as an investment in any asset that is not simply a long position in any of the traditional investments. Alternative investments can be investments in tangible assets such as vintage cars or rare stamps. Additionally, they can be investments in financial assets too such as private equity, hedge funds and sovereign wealth funds. Moreover, they can constitute intangible assets too such as non- fungible tokens, digital art and security tokens",
+          "More often than not, Alternative Investments are generally specific to High Net Worth Individuals (HNWIs), Very High Net Worth Individuals (VHNWIs) and Ultra High Net Worth Individuals (UHNWIs). ",
+          "High Net Worth Individuals (HNWIs) may be classified as ones who possess financial assets worth at least $1 million (INR 5 Crores). Individuals who have a net worth of $5 million (INR 5-25 Crores) are known as Very High Net Worth Individuals (VHNWIs). Finally, Ultra High Net Worth Individuals (UHNWIs) are defined as individuals with a net worth of $30 million (Over INR 25 Crores) and above. ",
+          "However, with the introduction of Collective Investment Vehicles and Pooled Investment Avenues, it has become comparatively easier for investors in lesser income groups also to tap the investment potential present in the Alternative Investments Markets. Success League Business Solutions provides deft advisory services regarding the following Alternative Investments avenues to its prospective investor clients: -",
+         
+      ],
+      list:[ ],
+      subService: [
+        {
+          title: 'A. Financial Assets',
+          paragraphs:[],
+          list: [
+            ' Private Equity- Venture Capital & Angel Investing',
+            ' Private Debt- Debt Capital Market (DCM), Middle Market, Asset-Based Lending (ABL), Mezzanine Debt, Distressed Debt',
+            ' Hedge Funds',
+            ' Managed Futures',
+            ' Pension Funds',
+            ' Government Securities',
+            ' Sovereign Wealth Funds',
+
+          ]
+        },
+        {
+          title: 'B. Real/Tangible Assets',
+          paragraphs: [
+          ],
+          list: [
+            "Commodities",
+            "Natural Resources- Land, Timberland, Farmland",
+            "Real Estate",
+            " Commercial & Development Infrastructure- IT Parks, MICE Establishments, Hospitality Properties, Hotels",
+          ]
+        },
+        {
+          title: 'Collectibles',
+          paragraphs: [
+       
+          ],
+          list: [
+            " Arts & Artefacts",
+            " Sculptures",
+            " Numismatics & Coins",
+            " Vintage Wines",
+            " Old Stamps",
+            " Rare Books",
+            " Classic Cars",
+            " Rare Vintage Comic Books from Iconic Superhero Series",
+
+          ]
+        },
+        {
+          title: 'D. Luxury/ Leisure/ Passion Assets',
+          paragraphs: [
+       
+          ],
+          list: [
+            " Luxury Watches",
+            " Private Jets",
+            " Yachts",
+            " Musical Instruments- Iconic instruments like Guitars & Saxophones owned by famous musicians are highly sought after. Stradivarius String Instruments, Paul Reed Smith and Gibson Guitars, Vintage Fender Stratocasters",
+            " Sneakers- Popular Sportswear Brand Models linked with Filmstars, famous Athletes or Historical Events acquire a Cult Status & an Iconic Cultural Value.",
+            " Luxury Handbags- Hermes Birkin and Kelly bags",
+            " Lego Sets Investing",
+
+          ]
+        },
+        {
+          title: 'E. Intangible/ Digital Assets',
+          paragraphs: [
+       
+          ],
+          list: [
+            " on-Fungible Tokens (NFTs)",
+            " Security Tokens",
+            " Numismatics & Coins",
+            " Virtual Brand Logos",
+            " Central Bank Digital Currencies (CBDC)",
+            " Infographics",
+            " Stable coins",
+            " Whitepaper PDFs",
+            " Digital Art",
+            " Retro Video Games alongwith Sealed Copies from the 8-bit and 16-bit era primarily Mario, Zelda, Mega Man and Sonic Releases.",
+            " Patents",
+            " Trademarks",
+            " Domain Names",
+            " Royalties on Books & Songs",
+            " Digital Information Content providing Unique Rights/ Copyrights over Digital Courses",
+            " Proprietary Business Models",
+
+          ]
+        },
+        {
+          title: 'TECH INVESTING',
+          paragraphs: [
+            "We live in times with record low interest rates combined with an inflationary environment. This results in an ongoing devaluation of our cash holdings. Technological innovation and socio-economic megatrends hold great potential for investors and in this decade there will be more value creation than in the last 50 years.",
+            "Technology is no longer an option but a fundamental requirement for businesses looking to thrive in today’s dynamic and competitive environment. It empowers companies to lower costs, enhance productivity, expand market reach, improve customer engagement, make data-driven decisions, and maintain a competitive edge.",
+            "The rationale behind why investors are being increasingly attracted to the tech sector may be summarised below: -",
+            "First, the potential for high growth & consequent high returns is phenomenal. Many technology companies have experienced exponential growth, providing substantial profits to their investors",
+            "Second, technology and innovation are constantly pushing the boundaries of productivity and cost-effectiveness leading to disruptive advancements that can transform entire industrial landscape. This continuous evolution offers immense opportunities for those investing early in such emerging technologies.",
+            "Furthermore, the tech sector often leads the market in R&D and innovation, resenting unique investment opportunities not available in other sectors.",
+            "Considering all such factors, requirements and industry dynamics, Success League Business Solutions leverages its broad industry professional networking across diverse sectors to assist the upcoming tech investors by providing the most dexterous investment recommendations w-r-t the following investment avenues available in the tech investment arena: -",
+
+          ],
+          list: [
+            " Software as a Service (SaaS)",
+            " Banking as a Service (BaaS)",
+            " Data Farms",
+            " Web/ Cloud Server Platforms",
+            " Exponential Technologies- Internet of Things (IoT), Interface of Things, 3D Printing, Virtual Reality (VR)",
+            " Blockchain and Crypto Assets",
+            " Artificial Intelligence (AI)",
+            " Digital Platforms",
+            " Edge Computing",
+            " Climate Tech- Energy, Mobility, Buildings, Agriculture, Industry",
+            " Circular Economy",
+            " Quantum Computing",
+            " Semiconductors",
+            " Nanotechnology",
+            " Space Technology",
+            " Biotechnology & Genetic Engineering",
+            " Robotics",
+            " Autonomous Driving Vehicles",
+            " Digital Payment Infrastructure, FinTech",
+            " Non- Invasive Surgical technologies & Genetic Medicines",
+
+          ]
+        },
+      ],
+    },
     
   ]
 
