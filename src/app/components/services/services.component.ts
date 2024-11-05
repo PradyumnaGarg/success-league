@@ -1625,7 +1625,7 @@ export class ServicesComponent implements OnInit {
           ]
         },
         {
-          title: 'Collectibles',
+          title: 'C. Collectibles',
           paragraphs: [
        
           ],
