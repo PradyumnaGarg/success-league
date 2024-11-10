@@ -741,16 +741,7 @@ export class ServicesComponent implements OnInit {
           paragraphs: [
             "Once a startup has gained significant market traction, and experienced good growth in revenue, it may approach Venture Capital Funds to raise funds for further scaling. Venture Capital is essentially equity finance in relatively new startups when it is fairly quite early to go public for raising funds. However, it is not always in the form of equity. It can also be in the form of debt.",
             "As per SEBI (Alternative Investment Fund Regulations 2012), a Venture capital fund means an alternative investment fund which invests primarily in unlisted securities of start-ups, emerging/early-stage venture capital undertakings mainly involved in new products/services, technology / intellectual property right based activities/a new business model”. It is classified under ‘Category I AIF’.",
-            "Venture Capital Undertaking means “a domestic company which is (i) not listed on a recognised stock exchange in India at the time of making investment; and (ii) engaged in the business for providing services, production/manufacture of article/things and does not include the following activities/sectors: (1) non-banking financial companies; (2) gold financing; (3) activities not permitted under industrial policy of Government of India; and (4) any other activity which may be specified by the SEBI in consultation with the Government of India from time to time",
-            "Angel investors are High Net Worth individuals who invest in startup businesses, normally in the early stages. They invest their money into high-potential startups in return for equity. ","Angel investors fill the gap between friends and family, and more formal venture capital funds. ",
-            "As per SEBI (Alternative Investment Funds Regulations 2012), an Angel Investor means any person who proposes to invest in an angel fund and satisfies one of the following conditions:",
-            "(a) An individual investor who has ",
-            "(1) Tangible assets of at least `2 crores excluding value of his principal residence; and ",
-            "(2) (i) Early stage investment experience (i.e. prior experience in investing in start-up/ emerging/early-stage ventures);",
-            "(ii) Serial entrepreneur (i.e. a person who has promoted/ co-promoted more than one start-up venture);",
-            "(iii) Is a senior management professional with at least 10 years of experience;",
-            "(b) A body corporate with a net worth of atleast 10 crores;", 
-            "(c) An AIF registered under SEBI regulations as VCF.",
+            "Venture Capital Undertaking means “a domestic company which is (i) not listed on a recognised stock exchange in India at the time of making investment; and (ii) engaged in the business for providing services, production/manufacture of article/things and does not include the following activities/sectors: (1) non-banking financial companies; (2) gold financing; (3) activities not permitted under industrial policy of Government of India; and (4) any other activity which may be specified by the SEBI in consultation with the Government of India from time to time.",
             ],
           list: []
         },
