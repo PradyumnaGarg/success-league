@@ -473,7 +473,7 @@ export class ServicesComponent implements OnInit {
         {
           title: 'Funding Sources',
           paragraphs: [
-            "Funds raised at this stage are used essentially for meeting marketing and product development related expenditures. The risk perception of investment at this stage is extremely high. Funding sources at this stage consist of Angel Investors, Crowd funding, business incubators and accelerators, Government Loan Schemes, Collateral-free Debt by Government Agencies.",
+            "This stage requires minimal amount of funding and involves fewer complexities and documentation and sources are very limited and informal channels are available to raise funds. Funding sources at this point consist of Self-financing (Bootstrapping), Family & Friends, grants from pitching events, Awards from Business Plan conception competitions etc.",
           ],
           list: []
         },
@@ -657,7 +657,7 @@ export class ServicesComponent implements OnInit {
             "7. Due Diligence Reports",
             "8. Marketing Strategy",
             "9. Fund Utilization Strategy",
-            "10. Term Shee",
+            "10. Term Sheet",
           ],
           list: []
         },
@@ -693,8 +693,8 @@ export class ServicesComponent implements OnInit {
         {
           title: '4. Crowd Funding ',
           paragraphs: [
-            "After self-financing, perhaps the second most popular source for startups before seed-funding stage is composed of family, friends and relatives. This is because many times, the promoters’ own resource may not suffice for the capital that he needs. The primary benefit of this source of investment is that there is an inherent level of trust between the entrepreneurs and the investors.", 
-            "People with whom the promoter has close relationships know his reliability and level of competence. The major drawback is that if the family members or friends think that lending money gives them right to ‘meddle’ and if the business fails, the issue of paying the money back can be a problem, putting the entire personal relationship at peril.",
+            "These are platforms where entrepreneurs can raise money from a large group of people. Crowd funding platforms are hosted on online web portals that facilitate and streamline project promotion and the raising of capital.", 
+            "Crowd funding portals allow promoters to raise money in the form of donations, whereby donors/ contributors do not enjoy any ownership or participation in the said business. Here, one thing must be kept in mind that most individuals donate to facilitate the development of things they care about, to support the causes they espouse. Its major benefits includeobtaining proof of concept, getting free PR and obtaining feedback from potential customers",
           ],
           list: []
         },
@@ -904,7 +904,7 @@ export class ServicesComponent implements OnInit {
           ' Production of Television Commercials (TVCs), Documentaries, Impact Features & Radio Jingles',
           ' Brand Identity Review',
           ' Brand Projection Strategy',
-          ' Brand Positionin', 
+          ' Brand Positioning', 
           ' Brand Portfolio Analysis',
           ' Customer Value Proposition',
           ' Engagement with Stakeholders (Clients, Prospects, Peer Fraternity, Reference Groups, Industry Experts and Researchers)',
@@ -1579,7 +1579,7 @@ export class ServicesComponent implements OnInit {
             " Assistance in Documentation",
             " Follow up for Approval",
             " Getting Sanction Letter",
-            " Completion of Legal Formalities for Disbursement of Credit Facilitie",
+            " Completion of Legal Formalities for Disbursement of Credit Facilities",
 
           ]
         },
@@ -1590,6 +1590,7 @@ export class ServicesComponent implements OnInit {
       serviceId: '22',
       serviceName: 'ALTERNATIVE & TECH INVESTMENTS',
       imagePath: 'assets/img/new/Alternative Investment.jpeg',
+      title:'ALTERNATIVE INVESTMENTS',
       paragraphs: [
           "An Alternative Investment is commonly regarded as an investment in any asset that is not simply a long position in any of the traditional investments. Alternative investments can be investments in tangible assets such as vintage cars or rare stamps. Additionally, they can be investments in financial assets too such as private equity, hedge funds and sovereign wealth funds. Moreover, they can constitute intangible assets too such as non- fungible tokens, digital art and security tokens",
           "More often than not, Alternative Investments are generally specific to High Net Worth Individuals (HNWIs), Very High Net Worth Individuals (VHNWIs) and Ultra High Net Worth Individuals (UHNWIs). ",
@@ -1607,6 +1608,7 @@ export class ServicesComponent implements OnInit {
             ' Private Debt- Debt Capital Market (DCM), Middle Market, Asset-Based Lending (ABL), Mezzanine Debt, Distressed Debt',
             ' Hedge Funds',
             ' Managed Futures',
+            ' Structured Products- Collateralized Debt Obligations, Credit Derivatives, Credit Default Swaps, Equity Linked Structured Products',
             ' Pension Funds',
             ' Government Securities',
             ' Sovereign Wealth Funds',
@@ -1650,6 +1652,7 @@ export class ServicesComponent implements OnInit {
             " Luxury Watches",
             " Private Jets",
             " Yachts",
+            " Meteorites- Extra-terrestrial Rocks that have fallen to earth, such as Meteorites, Asteroids and Lunar Samples",
             " Musical Instruments- Iconic instruments like Guitars & Saxophones owned by famous musicians are highly sought after. Stradivarius String Instruments, Paul Reed Smith and Gibson Guitars, Vintage Fender Stratocasters",
             " Sneakers- Popular Sportswear Brand Models linked with Filmstars, famous Athletes or Historical Events acquire a Cult Status & an Iconic Cultural Value.",
             " Luxury Handbags- Hermes Birkin and Kelly bags",
@@ -1663,7 +1666,7 @@ export class ServicesComponent implements OnInit {
        
           ],
           list: [
-            " on-Fungible Tokens (NFTs)",
+            " Non-Fungible Tokens (NFTs)",
             " Security Tokens",
             " Numismatics & Coins",
             " Virtual Brand Logos",
