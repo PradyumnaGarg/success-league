@@ -97,8 +97,8 @@ export class ServicesComponent implements OnInit {
           paragraphs: [],
           list: [
             ' Ministry of Corporate Affairs',
-            ' Stock Exchanges, Securities and Exchange Board of India (SEBI) , Securities', 
-            'Appellate Tribunal (SAT)',
+            ' Stock Exchanges, Securities and Exchange Board of India (SEBI),', 
+            ' Securities Appellate Tribunal (SAT)',
             ' Competition Commission of India (CCI)',
             ' Reserve Bank of India (RBI), Invest India, Enforcement Directorate (ED)',
             ' District Courts, Company Law Board (CLB), Tribunals, High Courts and Supreme Court',
@@ -742,6 +742,7 @@ export class ServicesComponent implements OnInit {
             "Once a startup has gained significant market traction, and experienced good growth in revenue, it may approach Venture Capital Funds to raise funds for further scaling. Venture Capital is essentially equity finance in relatively new startups when it is fairly quite early to go public for raising funds. However, it is not always in the form of equity. It can also be in the form of debt.",
             "As per SEBI (Alternative Investment Fund Regulations 2012), a Venture capital fund means an alternative investment fund which invests primarily in unlisted securities of start-ups, emerging/early-stage venture capital undertakings mainly involved in new products/services, technology / intellectual property right based activities/a new business model”. It is classified under ‘Category I AIF’.",
             "Venture Capital Undertaking means “a domestic company which is (i) not listed on a recognised stock exchange in India at the time of making investment; and (ii) engaged in the business for providing services, production/manufacture of article/things and does not include the following activities/sectors: (1) non-banking financial companies; (2) gold financing; (3) activities not permitted under industrial policy of Government of India; and (4) any other activity which may be specified by the SEBI in consultation with the Government of India from time to time.",
+            
             ],
           list: []
         },
