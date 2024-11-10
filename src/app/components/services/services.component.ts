@@ -694,7 +694,7 @@ export class ServicesComponent implements OnInit {
           title: '4. Crowd Funding ',
           paragraphs: [
             "These are platforms where entrepreneurs can raise money from a large group of people. Crowd funding platforms are hosted on online web portals that facilitate and streamline project promotion and the raising of capital.", 
-            "Crowd funding portals allow promoters to raise money in the form of donations, whereby donors/ contributors do not enjoy any ownership or participation in the said business. Here, one thing must be kept in mind that most individuals donate to facilitate the development of things they care about, to support the causes they espouse. Its major benefits includeobtaining proof of concept, getting free PR and obtaining feedback from potential customers",
+            "Crowd funding portals allow promoters to raise money in the form of donations, whereby donors/ contributors do not enjoy any ownership or participation in the said business. Here, one thing must be kept in mind that most individuals donate to facilitate the development of things they care about, to support the causes they espouse. Its major benefits includes obtaining proof of concept, getting free PR and obtaining feedback from potential customers",
           ],
           list: []
         },
